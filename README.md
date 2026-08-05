@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Guisella Barboza</h1>
+<h1 align="center">Hi, I'm Guisella Barboza 🌹</h1>
 <h3 align="center">Full Stack Developer | ISMS Specialist | Systems Engineer</h3>
 
-- 🔭 I’m currently working on **Building a Full Stack Web application for residential building management**
+🔭 I’m currently working on **Building a Full Stack Web application for residential building management**
 
-- 👯 I’m looking to collaborate on **Software projects focused on Secure Software Development.**
+👯 I’m looking to collaborate on **Business applications developed with secure and reliable practices.**
 
-- 💬 Ask me about **Full Stack Development, Cybersecurity and ISMS.**
+💬 Ask me about **Full Stack Development, Cybersecurity and ISMS.**
 
-- 📫 How to reach me **guisielo@gmail.com**
+📫 How to reach me **guisielo@gmail.com**
 
-- ⚡ Fun fact **I enjoy organizing spaces and finding ways to make environments more functional, pleasant and secure..**
+⚡ Fun fact **I enjoy organizing spaces and finding ways to make environments more functional, pleasant and secure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
