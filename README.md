@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on **Business applications developed with secure and reliable practices.**
 
-💬 Ask me about **Full Stack Development, Cybersecurity and ISMS.**
+💬 Ask me about **Full Stack Development and ISMS.**
 
 📫 How to reach me **guisielo@gmail.com**
 
