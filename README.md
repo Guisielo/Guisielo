@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Guisella Barboza 🌹</h1>
 <h3 align="center">Full Stack Developer | ISMS Specialist | Systems Engineer</h3>
 
-🔭 I’m currently working on **Building a Full Stack Web application for residential building management**
+🔭 I’m currently exploring React, Flask, and practical web development
 
 👯 I’m looking to collaborate on **Business applications developed with secure and reliable practices.**
 
